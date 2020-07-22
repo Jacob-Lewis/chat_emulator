@@ -1,5 +1,5 @@
 # Engagement Optimization
-This is a project established July 2020 to continue research, experimentation, and development of engagement optimization algorithms with applications to consumer media.
+This is a project established July 2020 to continue research, experimentation, and development of engagement optimization algorithms with applications to consumer media.  
 Contained in this repo is:  
 * Environment for engagement optimization that includes chat emulator  
 * Algorithms for engagement optimization. Pytorch results shared in Results directory
