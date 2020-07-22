@@ -1,5 +1,8 @@
-# chat_emulator
-Chat emulator for engagement optimization
+# Engagement Optimization
+This is a project established July 2020 to continue research, experimentation, and development of engagement optimization algorithms with applications to consumer media.
+Contained in this repo is:
+Environment for engagement optimization that includes chat emulator
+Algorithms for engagement optimization. Pytorch results shared in Results directory
 
 This emulator simulates the challenge of surfacing the content type returned from various data sources that is most likely to generate a click from the user. Below is a diagram of the challenge:
 ![Alt text](docs/emulator_problem.png?raw=true "Title")
